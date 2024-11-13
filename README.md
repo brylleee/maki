@@ -1,6 +1,8 @@
 # maki
 Offensive security tool, dumbshell upgrader!
 
+[Maki Preview Image](https://github.com/brylleee/maki/blob/main/preview.png?raw=true)
+
 ## What for?
 Maki makes it possible to automate the upgrade of your initial foothold shell to fully interactive shells.
 `CTRL+C` works without killing your shell so **no more frustrations**.
