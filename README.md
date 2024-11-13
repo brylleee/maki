@@ -9,7 +9,7 @@ Maki makes it possible to automate the upgrade of your initial foothold shell to
 
 ## How to use
 Simply run it as a listener on your local machine, then run any reverse shell on your target machine
-```
+```bash
 # Listens on 0.0.0.0 (any) by default
 ./maki.sh --port 7878
 ```
